@@ -36,6 +36,6 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "oidc-client": "^1.5.2"
+    "oidc-client": "github:raunakbinani/identity-model-oidc-client-js"
   }
 }
